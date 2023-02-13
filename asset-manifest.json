@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.d6a6fc57.css",
-    "main.js": "/static/js/main.15fb7e78.js",
+    "main.js": "/static/js/main.1f194332.js",
     "static/js/787.d04570ac.chunk.js": "/static/js/787.d04570ac.chunk.js",
     "static/media/taxture.jpg": "/static/media/taxture.6203144a96e06e08a5f5.jpg",
     "index.html": "/index.html",
     "main.d6a6fc57.css.map": "/static/css/main.d6a6fc57.css.map",
-    "main.15fb7e78.js.map": "/static/js/main.15fb7e78.js.map",
+    "main.1f194332.js.map": "/static/js/main.1f194332.js.map",
     "787.d04570ac.chunk.js.map": "/static/js/787.d04570ac.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d6a6fc57.css",
-    "static/js/main.15fb7e78.js"
+    "static/js/main.1f194332.js"
   ]
 }
