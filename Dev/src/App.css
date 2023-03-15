@@ -1,0 +1,54 @@
+
+
+
+/*       
+      task need to complete at last after building component
+      ======================================================
+
+1.need to modify footer and header bg color
+2.modyfy card body color
+3.change the font
+4.make other color modification if necessary 
+
+*/
+body{
+  background-image: url("./media/taxture.jpg");
+  background-size: 200px 200px; 
+}
+
+#footer {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color:#e3e3ec;
+}
+
+#header{
+  position: relative;
+  right: 0;
+  top: 0;
+  width: 100%;
+  background-color:#1534e6;
+  /* background-color: red; */
+}
+
+#body-container{
+  height: 70vh;
+  margin: 0;
+  display: grid;
+  place-items: center;
+}
+
+
+#body{
+ /* styling for fliping */
+ position: relative;
+ transform-style: preserve-3d;
+ perspective: 1000px;
+ cursor: pointer;
+ transition: .2s; 
+ transform: rotateY(0deg);
+}
+
+
